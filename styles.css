@@ -1,0 +1,23 @@
+main{
+  background-color: bisque;
+  display: flex;
+  flex-direction: row;
+  color: blueviolet;
+}
+body{
+  background-color: purple;
+}
+h2{
+  color: red;
+}
+
+img{
+  height: 200px;
+  width: 200px;
+  gap: 30px;
+}
+
+button{
+  height: 50px;
+  background-color: aquamarine;
+}
